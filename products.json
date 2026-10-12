@@ -1,0 +1,87 @@
+[
+  {
+    "id": "cherry",
+    "name": "Cherry Blossom Decorative Light",
+    "price": 20,
+    "category": "Room D\u00e9cor",
+    "description": "Beautiful cherry blossom lights to add a warm, cozy glow to your room.",
+    "variants": {
+      "Pink": 5,
+      "Red": 3,
+      "Yellow": 2,
+      "White": 2,
+      "Blue": 1
+    },
+    "images": 5
+  },
+  {
+    "id": "lashes",
+    "name": "DIY Cluster Eyelashes Kit",
+    "price": 10,
+    "category": "Beauty",
+    "description": "Cluster lash set with bond, seal, remover, tweezers and spoolie brush. Mix lash styles for your preferred look.",
+    "variants": {
+      "Standard": 15
+    },
+    "images": 4
+  },
+  {
+    "id": "bag",
+    "name": "Bow Shoulder Bag",
+    "price": 7,
+    "category": "Fashion",
+    "description": "Cute shoulder bag with ribbon and heart-charm details.",
+    "variants": {
+      "White with red accents": 10,
+      "Light blue with red accents": 10
+    },
+    "images": 3
+  },
+  {
+    "id": "vine",
+    "name": "Decorative Vine Leaf",
+    "price": 10,
+    "category": "Room D\u00e9cor",
+    "description": "Green artificial hanging vines for simple room and wall decoration. No lights included.",
+    "variants": {
+      "Green": 13
+    },
+    "images": 4
+  },
+  {
+    "id": "clipper",
+    "name": "3-in-1 Hair Clipper",
+    "price": 15,
+    "category": "Grooming",
+    "description": "Rechargeable grooming trimmer with clipper attachments and detail/nose trimming head as pictured.",
+    "variants": {
+      "Gold": 4
+    },
+    "images": 3
+  },
+  {
+    "id": "trimmer",
+    "name": "Men\u2019s Beard Trimmer",
+    "price": 10,
+    "category": "Grooming",
+    "description": "Rechargeable beard and hair detailing trimmer with guide combs and USB charging cable.",
+    "variants": {
+      "White": 3
+    },
+    "images": 2
+  },
+  {
+    "id": "gun",
+    "name": "Electric Money Spray Gun",
+    "price": 20,
+    "category": "Party Accessories",
+    "description": "Battery-powered party money spray gun. Requires 3 AA batteries; bills and batteries not confirmed included. Two for $30, mix any colors.",
+    "variants": {
+      "Red": 10,
+      "Pink": 10,
+      "Black": 10,
+      "Gold": 10
+    },
+    "images": 5
+  }
+]
